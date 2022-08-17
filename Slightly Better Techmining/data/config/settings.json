@@ -1,0 +1,6 @@
+{
+	"yunruTechDecayLimit":0.25, # The threshold at which decay is removed if a Tech-Mine is improved.
+	"yunruWeightedTechValue":10000, # The base value of "junk" items dropped - Note that this is only a small amount of the total at default values.
+	"yunruCycleTech":1, # Whether to halt decay at the threshold (0), or to reset decay at the threshold (1).
+}
+

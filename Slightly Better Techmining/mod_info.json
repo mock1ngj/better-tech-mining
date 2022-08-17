@@ -1,0 +1,9 @@
+{
+    "id": "yunrutechmining",
+    "name": " Slightly Better Tech-Mining",
+    "author": "Yunru",
+    "version": "0.95.1-2.8.0",
+    "description": "Removes fuel and supplies as loot options from Tech-Mining. Also adds an exhuastion tracker to the tooltip.",
+    "gameVersion": "0.95.1a-RC6",
+	"jars":["jars/YunruIndustries.jar"]
+}
