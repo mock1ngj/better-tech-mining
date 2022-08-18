@@ -6,9 +6,9 @@ gamma_core,yunru_techmining,5
 "wpn_:{weaponType:MISSILE, tags:[!no_drop, !restricted, !no_sell]}",yunru_techmining,150
 "wpn_:{weaponType:ENERGY, tags:[!no_drop, !restricted, !no_sell]}",yunru_techmining,150
 "ftr_:{tags:[!remnant]}",yunru_techmining,300
-"item_:{tags:[IndEvo_VPC_common]}",yunru_techmining,30
-"item_:{tags:[IndEvo_VPC_uncommon]}",yunru_techmining,20
-"item_:{tags:[IndEvo_VPC_rare]}",yunru_techmining,10
+"item_:{tags:[IndEvo_VPC_common]}",yunru_techmining,20
+"item_:{tags:[IndEvo_VPC_uncommon]}",yunru_techmining,15
+"item_:{tags:[IndEvo_VPC_rare]}",yunru_techmining,5
 "item_modspec:{tags:[!no_drop_salvage]}",yunru_techmining,9
 "item_ship_bp:{tags:[rare_bp]}",yunru_techmining,45
 "item_weapon_bp:{tags:[rare_bp]}",yunru_techmining,45
